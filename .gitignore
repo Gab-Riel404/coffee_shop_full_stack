@@ -1,7 +1,8 @@
 venv/
 .vscode/
 __pycache__/
-test.db
+test.db/
+Pipfile
 
 # OS generated files #
 ######################
